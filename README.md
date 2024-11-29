@@ -2,6 +2,8 @@
 
 Este projeto consiste em uma API robusta desenvolvida em Laravel para gerenciar comentários de usuários, implementando autenticação, autorização, verificação de e-mail, redefinição de senha e outras funcionalidades avançadas para garantir segurança e integridade dos dados.
 
+Foi realizado para completar o desafio em questão: https://github.com/Betalabs/Selecao-Back-End/blob/master/README.md
+
 ## Características
 Uma API completa com funcionalidades de autenticação, CRUD de comentários e medidas de segurança robustas, incluindo middleware de administrador e expiração de tokens.
 
