@@ -12,7 +12,9 @@ class CommentController extends Controller
 {
     public function index()
     {
-        $comments = Comment::with('user')->get();
+        $comments = Comment::select('id', 'user_id', 'content', 'created_at', 'updated_at')
+        ->with(['user:id,name,email,created_at,updated_at'])
+        ->get();
 
         return response()->json($comments, 200);
     }
