@@ -4,6 +4,12 @@ Este projeto consiste em uma API robusta desenvolvida em Laravel para gerenciar 
 
 Projeto realizado para cumprir o desafio em questão: https://github.com/Betalabs/Selecao-Back-End/blob/master/README.md
 
+
+
+https://github.com/user-attachments/assets/43075167-341a-482d-a23e-76bfb5ad0ac5
+
+
+
 ## Características
 Uma API completa com funcionalidades de autenticação, CRUD de comentários e medidas de segurança robustas, incluindo middleware de administrador e expiração de tokens.
 
